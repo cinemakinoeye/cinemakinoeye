@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cinemakinoeye
 - 👀 I’m interested in protoyping immersive media experiences
-- 🌱 I’m currently learning Swift and iOS programming
+- 🌱 I’m currently learning XR Toolkit in Unity
 - 💞️ I’m looking to collaborate on immersive media experiences
 - 📫 How to reach me: email d.tames@northeastern.edu or @cinemakinoeye on Twitter
 
