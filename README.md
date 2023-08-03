@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cinemakinoeye
-- 👀 I’m interested in protoyping immersive media experiences
-- 🌱 I’m currently learning XR Toolkit in Unity
-- 💞️ I’m looking to collaborate on immersive media experiences
+- 👀 I’m interested in prototyping immersive media experiences
+- 🌱 I’m currently figuring out how to use the XR Interaction Toolkit for my new VR project using Unity
+- 💞️ I’m interested in comparing notes with other folks creating immersive media experiences
 - 📫 How to reach me: email d.tames@northeastern.edu or @cinemakinoeye on Twitter
 
 <!---
